@@ -1,0 +1,7 @@
+pyarrow
+pandas
+yfinance
+pandas_ta
+ib_insync
+nest_asyncio
+lightweight-charts
